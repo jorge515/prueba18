@@ -8,4 +8,4 @@ def hello_world():
 
 @app.route("/about")
 def hello_world():
-     return "Acerca de Nosotros!"
+     return "Acerca "
